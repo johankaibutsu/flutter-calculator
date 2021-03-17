@@ -1,3 +1,3 @@
 # calculator
 
-A new Flutter application.
+A Flutter application.
